@@ -1,0 +1,6 @@
+name: AesirCraftRegistrar
+main: net.aesircraft.AesirCraftRegistrar.AesirCraftRegistrar
+version: V1.0a
+description: AesirCraft Registrar Plugin!
+authors: [Xeology]
+commands: 
